@@ -1,2 +1,2 @@
 # at16k-continue-training
-guideline at16k on new data
+guideline on fine tuning tensor2tensor based model at16k on new data
